@@ -39,5 +39,5 @@ Python script that analyzes the votes and calculates each of the following value
 -The winner of the election based on popular vote
 
 #My Observations/Comments
-I redid this challenge due to increase Python skills and a desire to  make the code cleaner. 
+I redid this challenge due to increased Python skills and a desire to  make the code cleaner. 
 
